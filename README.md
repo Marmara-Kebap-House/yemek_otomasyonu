@@ -1,2 +1,2 @@
 # yemek_otomasyonu
-C Dilinde Yazılmış Metin Tabanlı Yemek Otomasyon Uygulaması
+C Dilinde Yazılmış Metin Tabanlı Yemek Otomasyonu Uygulaması
