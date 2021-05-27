@@ -1,0 +1,54 @@
+
+----------------------------------------------------------------
+			Marmara Kebap Salonu
+			   27/5/2021  22:51
+ 
+Patates: 	 	 8.00 * 4.00
+ 
+Ayran: 	 	 3.00 * 3.00
+
+Toplam tutar:	 	 41.00
+
+     Ucret Online Odeme ile tahsil edildi...
+Adiniz: Ali       Soyadiniz: Donmez
+Adres Bilginiz:
+Sehir:   Bursa   Ilce:   Nilufer   Semt/Mahalle:   Kizilcikli
+Sokak:   Orhangazi   Apartman Ismi:   Altin   Daire No:   20
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+			Marmara Kebap Salonu
+			   27/5/2021  22:55
+ 
+Kori_Soslu_Tavuk: 	 	 15.00 * 5.00
+ 
+Cheesecake: 	 	 12.00 * 4.00
+ 
+Fanta: 	 	 4.00 * 4.00
+
+Toplam tutar:	 	 139.00
+
+     Ucret Kapida Odeme Olarak tahsil edilecek...
+Adiniz: Murat       Soyadiniz: Guler
+Adres Bilginiz:
+Sehir:   Bursa   Ilce:   Gemlik   Semt/Mahalle:   BuyukKumla
+Sokak:   432   Apartman Ismi:   CiracilarA23/2   Daire No:   23/2
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+			Marmara Kebap Salonu
+			   27/5/2021  23:22
+ 
+Patates: 	 	 8.00 * 4.00
+ 
+Ayran: 	 	 3.00 * 4.00
+
+Toplam tutar:	 	 44.00
+
+     Ucret Kapida Odeme Olarak tahsil edilecek...
+Adiniz: Gurkan       Soyadiniz: Tok
+Adres Bilginiz:
+Sehir:   Bursa   Ilce:   Osmangazi   Semt/Mahalle:   Balat
+Sokak:   Carsi   Apartman Ismi:   Elma   Daire No:   5
+
+----------------------------------------------------------------
