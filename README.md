@@ -21,4 +21,6 @@ https://user-images.githubusercontent.com/77414773/170863915-176a20a0-816b-4210-
 
 https://user-images.githubusercontent.com/77414773/170863933-48e2bcba-70bb-44d6-a805-aa5fd4bb6380.mp4
 
+<h3><strong> Proje Yapısı </strong></h3>
 
+https://user-images.githubusercontent.com/77414773/170864269-9afef60e-e6c9-4f54-a8c1-8b3fcede8cb1.mp4
